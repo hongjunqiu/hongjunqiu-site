@@ -2,7 +2,7 @@
 publishDate: 2026-04-01
 title: '🎙️ 每日科技播客 2026-04-01'
 excerpt: 'Claude Code 五十一万行源码泄露、OpenAI 估值 8520 亿美元融资、朝鲜黑客劫持 Axios 开源库'
-image: ~/assets/images/podcast-cover.png
+image: ~/assets/images/default.png
 category: podcast
 tags:
   - podcast
