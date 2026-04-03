@@ -2,7 +2,6 @@
 publishDate: 2026-04-02
 title: '🎙️ 每日科技播客 2026-04-02'
 excerpt: 'SpaceX 秘密提交万亿 IPO、Cloudflare 发布 EmDash 挑战 WordPress、NASA Artemis II 载人绕月发射'
-image: ~/assets/images/default.png
 category: podcast
 tags:
   - podcast

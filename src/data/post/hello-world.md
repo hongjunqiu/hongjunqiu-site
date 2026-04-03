@@ -2,7 +2,6 @@
 publishDate: 2026-03-30
 title: 'Hello World'
 excerpt: 'First post on my new site. A brief intro to who I am and what I plan to write about.'
-image: https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&auto=format&fit=crop&w=2128&q=80
 tags:
   - personal
   - intro

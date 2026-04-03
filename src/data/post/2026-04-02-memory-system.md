@@ -2,7 +2,6 @@
 publishDate: 2026-04-02
 title: 'OpenClaw Agent 三层并行记忆系统：架构设计与实战'
 excerpt: '如何给 AI Agent 搭建一套真正可用的长期记忆系统？三层并行架构——LanceDB-Pro 语义记忆 + SQLite 知识图谱 + 文件系统人工策展，从零到生产的完整方案。'
-image: ~/assets/images/memory-system-cover.png
 category: tech
 tags:
   - AI
