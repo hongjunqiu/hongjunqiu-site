@@ -54,6 +54,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     category: rawCategory,
     author,
     audio,
+    audioSize,
+    audioDuration,
     draft = false,
     metadata = {},
   } = data;
@@ -86,6 +88,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     excerpt: excerpt,
     image: image,
     audio: audio,
+    audioSize: audioSize,
+    audioDuration: audioDuration,
 
     category: category,
     tags: tags,

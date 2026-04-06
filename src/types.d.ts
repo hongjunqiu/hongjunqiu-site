@@ -22,6 +22,8 @@ export interface Post {
   excerpt?: string;
   /**  */
   audio?: string;
+  audioSize?: number;
+  audioDuration?: number;
   /**  */
   image?: ImageMetadata | string;
 

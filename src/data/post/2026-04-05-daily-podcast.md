@@ -1,8 +1,10 @@
 ---
 publishDate: 2026-04-05
 title: '每日科技播客 2026-04-05'
-excerpt: ''
+excerpt: '今日看点：Google Vids 2.0 | Sleek Analytics | Surf Social Websites'
 audio: /audio/podcast/2026-04-05.mp3
+audioSize: 4399220
+audioDuration: 515
 category: podcast
 tags:
   - podcast

@@ -57,6 +57,8 @@ const postCollection = defineCollection({
     excerpt: z.string().optional(),
     image: z.string().optional(),
     audio: z.string().optional(),
+    audioSize: z.number().optional(),
+    audioDuration: z.number().optional(),
 
     category: z.string().optional(),
     tags: z.array(z.string()).optional(),
