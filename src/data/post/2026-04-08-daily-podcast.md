@@ -3,7 +3,7 @@ publishDate: 2026-04-08
 title: '每日科技播客 2026-04-08'
 excerpt: '今日看点：Lovable | Screen Studio | bolt.new'
 audio: /audio/podcast/2026-04-08.mp3
-audioDuration: 480
+audioDuration: 570
 category: podcast
 tags:
   - podcast
