@@ -1,9 +1,8 @@
 ---
 publishDate: 2026-04-14
 title: '每日科技播客 2026-04-14'
-excerpt: '今日看点：Brila | ProdShort | Offsite'
 audio: /audio/podcast/2026-04-14.mp3
-audioDuration: 480
+audioDuration: 438
 category: podcast
 tags:
   - podcast
