@@ -21,6 +21,12 @@ jobs:
 
       - run: npm run build
 
+      - name: Debug - list dist/audio
+        run: ls -la dist/audio/podcast/ 2>/dev/null || echo "NO AUDIO DIR IN DIST"
+
+      - name: Verify dist file count
+        run: find dist -type f | wc -l
+
       - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
